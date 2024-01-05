@@ -1,0 +1,22 @@
+export const users = [
+  { id: 1, name: 'John Doe', username: 'Doe', email: 'john.doe@example.com' },
+  { id: 2, name: 'Jane Smith', username: 'jane_smith', email: 'jane.smith@example.com' },
+  { id: 3, name: 'Bob Johnson', username: 'Bobson', email: 'bob.johnson@example.com' },
+  { id: 4, name: 'Alice Brown', username: 'alice_brown', email: 'alice.brown@example.com' },
+  { id: 5, name: 'Charlie White', username: 'Snow', email: 'charlie.white@example.com' },
+  { id: 6, name: 'Eva Green', username: 'green', email: 'eva.green@example.com' },
+  { id: 7, name: 'David Black', username: 'david_black', email: 'david.black@example.com' },
+  { id: 8, name: 'Olivia Taylor', username: 'olivia_taylor', email: 'olivia.taylor@example.com' },
+  { id: 9, name: 'Michael Wilson', username: 'michael_wilson', email: 'michael.wilson@example.com' },
+  { id: 10, name: 'Sophia Miller', username: 'Sophia', email: 'sophia.miller@example.com' },
+  { id: 11, name: 'James Davis', username: 'james_davis', email: 'james.davis@example.com' },
+  { id: 12, name: 'Emily Wilson', username: 'emily_wilson', email: 'emily.wilson@example.com' },
+  { id: 13, name: 'Daniel Johnson', username: 'daniel_johnson', email: 'daniel.johnson@example.com' },
+  { id: 14, name: 'Ava Martinez', username: 'ava_martinez', email: 'ava.martinez@example.com' },
+  { id: 15, name: 'Christopher Thomas', username: 'christopher_thomas', email: 'christopher.thomas@example.com' },
+  { id: 16, name: 'Isabella Harris', username: 'isabella_harris', email: 'isabella.harris@example.com' },
+  { id: 17, name: 'William Jackson', username: 'william_jackson', email: 'william.jackson@example.com' },
+  { id: 18, name: 'Emma Garcia', username: 'emma_garcia', email: 'emma.garcia@example.com' },
+  { id: 19, name: 'Ryan Taylor', username: 'Ryan_Gosling', email: 'ryan.taylor@example.com' },
+  { id: 20, name: 'Mia Moore', username: 'more', email: 'mia.moore@example.com' }
+];

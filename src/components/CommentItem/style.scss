@@ -1,0 +1,13 @@
+.CommentItem {
+  padding: 10px;
+  margin-left: 60px;
+  border-bottom: 1px solid gray;
+
+  &__name {
+    font-weight: bold;
+  }
+
+  &__email {
+    color: black;
+  }
+}
